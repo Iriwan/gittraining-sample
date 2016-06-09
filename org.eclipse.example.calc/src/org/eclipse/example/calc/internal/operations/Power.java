@@ -2,9 +2,7 @@ package org.eclipse.example.calc.internal.operations;
 
 import org.eclipse.example.calc.BinaryOperation;
 /**
- * 
- * @author v088961
- *
+ * Binary power operation
  */
 public class Power extends AbstractOperation implements BinaryOperation {
 
