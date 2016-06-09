@@ -2,6 +2,9 @@ package org.eclipse.example.calc.internal.operations;
 
 import org.eclipse.example.calc.BinaryOperation;
 
+/**
+ * Binary divide operation
+ */
 public class Divide extends AbstractOperation implements BinaryOperation {
 
 	@Override
